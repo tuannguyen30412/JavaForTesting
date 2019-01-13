@@ -1,5 +1,5 @@
 package concepts;
 
-public class Examples {
+public class Example2 {
 
 }
